@@ -1,0 +1,29 @@
+/* Example stylesheet */
+
+body, html {
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+h1 {
+  font-family: helvetica;
+  font-size: 21px;
+  font-weight: 200;
+}
+
+.box{
+  width:100px;
+  height:100px;
+}
+
+.red{
+  background:#f00;
+}
+.green{
+  background:#0f0;
+}
+.blue{
+  background:#00f;
+}
